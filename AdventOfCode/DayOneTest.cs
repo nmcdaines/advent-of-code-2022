@@ -2,19 +2,6 @@ using System.Reflection;
 
 namespace AdventOfCode;
 
-public class LoadFile
-{
-    public static string fromPath(string filepath)
-    {
-        var finalPath = Path.Combine(
-            Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location),
-            "../../../" + filepath
-        );
-
-        return File.ReadAllText(finalPath);
-    }
-}
-
 public static class DayOne
 {
     static IDictionary<int, int> calculateCalories(string[] caloriesList)
@@ -81,7 +68,7 @@ public static class DayOne
     }
 }
 
-public class Tests
+public class DayOneTests
 {
     [SetUp]
     public void Setup()
