@@ -1,14 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=601ac17b_002D041b_002D412c_002Da1de_002De50359bb815a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FirstProblemExample" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c7f5f4ed_002D6b57_002D4b57_002Db7aa_002D394b277e7b9f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SecondProblemExample" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
-    &lt;TestId&gt;NUnit3x::1E7BFA20-50CC-462B-AC99-2C998ECD4E98::net7.0::AdventOfCode.DayTwoTests.FirstProblemExample&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::1E7BFA20-50CC-462B-AC99-2C998ECD4E98::net7.0::AdventOfCode.DayTwoTests.FirstProblemSolution&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::1E7BFA20-50CC-462B-AC99-2C998ECD4E98::net7.0::AdventOfCode.DayTwoTests.SecondProblemExample&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c9a054e1_002Dc917_002D4b5e_002Db57f_002Dca480a405cf8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SecondProblemExample" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;NUnit3x::1E7BFA20-50CC-462B-AC99-2C998ECD4E98::net7.0::AdventOfCode.DayTwoTests.SecondProblemExample&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::1E7BFA20-50CC-462B-AC99-2C998ECD4E98::net7.0::AdventOfCode.DayTwoTests.SecondProblemSolution&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::1E7BFA20-50CC-462B-AC99-2C998ECD4E98::net7.0::AdventOfCode.DayThreeTests.SecondProblemExample&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::1E7BFA20-50CC-462B-AC99-2C998ECD4E98::net7.0::AdventOfCode.DayThreeTests.SecondProblemSolution&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
